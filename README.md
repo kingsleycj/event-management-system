@@ -54,6 +54,6 @@ planner1.getAllAttendees("E002");
 
 ## Screenshot of System
 
-![Event Management System ](<Screenshot-ems.png>)
+// ![Event Management System ](<Screenshot-ems.png>)
 
-// ![Event Management System Screenshot](https://drive.google.com/file/d/1YRqy9j64oFYeTIIodHne6FZ-G8eDhi3n/view?usp=sharing)
+![Event Management System Screenshot](https://drive.google.com/file/d/1YRqy9j64oFYeTIIodHne6FZ-G8eDhi3n/view?usp=sharing)
